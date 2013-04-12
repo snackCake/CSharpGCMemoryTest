@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpGCMemoryTest", "CSharpGCMemoryTest\CSharpGCMemoryTest.csproj", "{A3B72B1E-4908-4E89-B485-AA47D0DB82D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3B72B1E-4908-4E89-B485-AA47D0DB82D1}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{A3B72B1E-4908-4E89-B485-AA47D0DB82D1}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{A3B72B1E-4908-4E89-B485-AA47D0DB82D1}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{A3B72B1E-4908-4E89-B485-AA47D0DB82D1}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{A3B72B1E-4908-4E89-B485-AA47D0DB82D1}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A3B72B1E-4908-4E89-B485-AA47D0DB82D1}.Debug|iPhone.Build.0 = Debug|iPhone
+		{A3B72B1E-4908-4E89-B485-AA47D0DB82D1}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A3B72B1E-4908-4E89-B485-AA47D0DB82D1}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A3B72B1E-4908-4E89-B485-AA47D0DB82D1}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A3B72B1E-4908-4E89-B485-AA47D0DB82D1}.Release|iPhone.Build.0 = Release|iPhone
+		{A3B72B1E-4908-4E89-B485-AA47D0DB82D1}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A3B72B1E-4908-4E89-B485-AA47D0DB82D1}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CSharpGCMemoryTest\CSharpGCMemoryTest.csproj
+	EndGlobalSection
+EndGlobal
